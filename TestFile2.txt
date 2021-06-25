@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 123
 456
 
+=======
+testfile
+testfile2
+>>>>>>> dce8394ceeef535c8f68d64ecd173ecc1d9331bc
